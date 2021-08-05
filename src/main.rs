@@ -285,7 +285,7 @@ fn _result_example(){
     };
 }
 fn main() {
-    //guessing_game();
+    _guessing_game();
     //shadowing();
     //tuples_and_arrays();
     //println!("5 + 6 = {}", addition(5, 6));
